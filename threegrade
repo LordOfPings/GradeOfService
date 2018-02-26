@@ -1,0 +1,128 @@
+wavelengths:40, h:m:l = 14:10:16
+
+100 Requests
+Number of high priority requests: 29 Number of low priority requests: 45 Number of medium priority request: 26
+Number of high priority LightPaths Established: 29 Number of low priority LightPaths Established: 45 Number of medium priority LightPaths Established: 26
+Number of LightPaths Established (NLE): 100
+Blocking probability: 0
+
+200 Requests
+Number of high priority requests: 59 Number of low priority requests: 85 Number of medium priority request: 56
+Number of high priority LightPaths Established: 59 Number of low priority LightPaths Established: 85 Number of medium priority LightPaths Established: 56
+Number of LightPaths Established (NLE): 200
+Blocking probability: 0
+
+400 Requests
+Number of high priority requests: 112 Number of low priority requests: 185 Number of medium priority request: 103
+Number of high priority LightPaths Established: 112 Number of low priority LightPaths Established: 166 Number of medium priority LightPaths Established: 91
+Number of LightPaths Established (NLE): 369
+Blocking probability: 0.0775
+
+700 Requests
+Number of high priority requests: 220 Number of low priority requests: 292 Number of medium priority request: 188
+Number of high priority LightPaths Established: 131 Number of low priority LightPaths Established: 194 Number of medium priority LightPaths Established: 111
+Number of LightPaths Established (NLE): 436
+Blocking probability: 0.377143
+
+1000 Requests
+Number of high priority requests: 300 Number of low priority requests: 439 Number of medium priority request: 261
+Number of high priority LightPaths Established: 156 Number of low priority LightPaths Established: 209 Number of medium priority LightPaths Established: 133
+Number of LightPaths Established (NLE): 498
+Blocking probability: 0.502
+
+
+100 Requests
+Number of high priority requests: 31 Number of low priority requests: 39 Number of medium priority request: 30
+Number of high priority LightPaths Established: 31 Number of low priority LightPaths Established: 39 Number of medium priority LightPaths Established: 30
+Number of LightPaths Established (NLE): 100
+Blocking probability: 0
+1000 Requests
+Number of high priority requests: 278 Number of low priority requests: 435 Number of medium priority request: 287
+Number of high priority LightPaths Established: 34 Number of low priority LightPaths Established: 182 Number of medium priority LightPaths Established: 108
+Number of LightPaths Established (NLE): 324
+Blocking probability: 0.676
+1000 Requests
+Number of high priority requests: 312 Number of low priority requests: 429 Number of medium priority request: 259
+Number of high priority LightPaths Established: 149 Number of low priority LightPaths Established: 166 Number of medium priority LightPaths Established: 110
+Number of LightPaths Established (NLE): 425
+Blocking probability: 0.575
+1000 Requests
+Number of high priority requests: 280 Number of low priority requests: 457 Number of medium priority request: 263
+Number of high priority LightPaths Established: 158 Number of low priority LightPaths Established: 197 Number of medium priority LightPaths Established: 113
+Number of LightPaths Established (NLE): 468
+Blocking probability: 0.532
+1000 Requests
+Number of high priority requests: 256 Number of low priority requests: 467 Number of medium priority request: 277
+Number of high priority LightPaths Established: 152 Number of low priority LightPaths Established: 209 Number of medium priority LightPaths Established: 112
+Number of LightPaths Established (NLE): 473
+Blocking probability: 0.527
+1000 Requests
+Number of high priority requests: 305 Number of low priority requests: 453 Number of medium priority request: 242
+Number of high priority LightPaths Established: 165 Number of low priority LightPaths Established: 198 Number of medium priority LightPaths Established: 113
+Number of LightPaths Established (NLE): 476
+Blocking probability: 0.524
+400 Requests
+Number of high priority requests: 120 Number of low priority requests: 156 Number of medium priority request: 124
+Number of high priority LightPaths Established: 67 Number of low priority LightPaths Established: 69 Number of medium priority LightPaths Established: 45
+Number of LightPaths Established (NLE): 181
+Blocking probability: 0.5475
+1000 Requests
+Number of high priority requests: 317 Number of low priority requests: 405 Number of medium priority request: 278
+Number of high priority LightPaths Established: 151 Number of low priority LightPaths Established: 200 Number of medium priority LightPaths Established: 104
+Number of LightPaths Established (NLE): 455
+Blocking probability: 0.545
+200 Requests
+Number of high priority requests: 61 Number of low priority requests: 83 Number of medium priority request: 56
+Number of high priority LightPaths Established: 54 Number of low priority LightPaths Established: 83 Number of medium priority LightPaths Established: 51
+Number of LightPaths Established (NLE): 188
+Blocking probability: 0.06
+200 Requests
+Number of high priority requests: 50 Number of low priority requests: 92 Number of medium priority request: 58
+Number of high priority LightPaths Established: 50 Number of low priority LightPaths Established: 92 Number of medium priority LightPaths Established: 54
+Number of LightPaths Established (NLE): 196
+Blocking probability: 0.02
+1000 Requests
+Number of high priority requests: 297 Number of low priority requests: 431 Number of medium priority request: 272
+Number of high priority LightPaths Established: 165 Number of low priority LightPaths Established: 226 Number of medium priority LightPaths Established: 118
+Number of LightPaths Established (NLE): 509
+Blocking probability: 0.491
+1000 Requests
+Number of high priority requests: 294 Number of low priority requests: 448 Number of medium priority request: 258
+Number of high priority LightPaths Established: 209 Number of low priority LightPaths Established: 276 Number of medium priority LightPaths Established: 156
+Number of LightPaths Established (NLE): 642
+Blocking probability: 0.358
+1000 Requests
+Number of high priority requests: 309 Number of low priority requests: 429 Number of medium priority request: 262
+Number of high priority LightPaths Established: 213 Number of low priority LightPaths Established: 280 Number of medium priority LightPaths Established: 184
+Number of LightPaths Established (NLE): 677
+Blocking probability: 0.323
+1000 Requests
+Number of high priority requests: 319 Number of low priority requests: 433 Number of medium priority request: 248
+Number of high priority LightPaths Established: 219 Number of low priority LightPaths Established: 280 Number of medium priority LightPaths Established: 181
+Number of LightPaths Established (NLE): 680
+Blocking probability: 0.32
+1000 Requests
+Number of high priority requests: 270 Number of low priority requests: 461 Number of medium priority request: 269
+Number of high priority LightPaths Established: 217 Number of low priority LightPaths Established: 290 Number of medium priority LightPaths Established: 186
+Number of LightPaths Established (NLE): 693
+Blocking probability: 0.307
+1000 Requests
+Number of high priority requests: 304 Number of low priority requests: 424 Number of medium priority request: 272
+Number of high priority LightPaths Established: 213 Number of low priority LightPaths Established: 249 Number of medium priority LightPaths Established: 167
+Number of LightPaths Established (NLE): 629
+Blocking probability: 0.371
+1000 Requests
+Number of high priority requests: 308 Number of low priority requests: 437 Number of medium priority request: 255
+Number of high priority LightPaths Established: 248 Number of low priority LightPaths Established: 213 Number of medium priority LightPaths Established: 160
+Number of LightPaths Established (NLE): 621
+Blocking probability: 0.379
+1000 Requests
+Number of high priority requests: 269 Number of low priority requests: 461 Number of medium priority request: 270
+Number of high priority LightPaths Established: 256 Number of low priority LightPaths Established: 229 Number of medium priority LightPaths Established: 186
+Number of LightPaths Established (NLE): 671
+Blocking probability: 0.329
+1000 Requests
+Number of high priority requests: 301 Number of low priority requests: 409 Number of medium priority request: 290
+Number of high priority LightPaths Established: 266 Number of low priority LightPaths Established: 238 Number of medium priority LightPaths Established: 204
+Number of LightPaths Established (NLE): 708
+Blocking probability: 0.292
